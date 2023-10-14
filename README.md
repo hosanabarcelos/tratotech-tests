@@ -2,7 +2,7 @@
     Tratotech
 </h1>
 
-Tratotech é uma loja e-commerce que possui bibliotecas externas, que necessita de testes em seus componentes e páginas. <br />
+Tratotech é uma loja e-commerce que possui bibliotecas externas e necessita de testes em seus componentes e páginas. <br />
 Com o **curso 05** da formação de testes automatizados, obtive todo o conhecimento presente no conteúdo abaixo:
 
  ## 📚 Conhecimentos
