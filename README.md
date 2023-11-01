@@ -14,7 +14,7 @@ Conhecimentos adquiridos durante o desenvolvimento:
 - Mockar qualquer biblioteca externa;
 - Mockar apenas uma função sem alterar as outras;
 - Testes com o Redux;
-- Testes com o Redux Saga;
+- Testes com o Redux Saga.
 
   
  ## 🛠️ Tecnologias
